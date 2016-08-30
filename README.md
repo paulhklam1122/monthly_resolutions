@@ -1,6 +1,6 @@
 ## Monthly Resolutions
 
-Useful web app to keep track of your monthly resolutions.
+Useful web app to keep track of your monthly resolutions built with Meteor.js.
 
 How to Deploy on your own local machine
 
